@@ -1,5 +1,7 @@
 # Meeting Notes and Record
 
+... 
+
 ### 26.5.21 
 #### Main topic
 - Bagging situation: $\mathrm{Average(SGD}(\theta_0;Z_I))$, here $I$ is a subset of $[N]$, and $\theta_0$ uses all data information
