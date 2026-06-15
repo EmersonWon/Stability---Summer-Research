@@ -24,3 +24,22 @@
 #### Skills and Experience
 - Find out which paper to read among the references: check the most cited one (classic); see the *related work* section of new ones to see their positions and relations
 - Organize what you have done, see the structures in **Overleaf** 
+
+### 26.6.15 
+#### Main topic 
+- Our later focus is section 3.1 in `main.tex` 
+- PCR: learn $U$ from $X$ (PCA); regress $Y$ on $U^\top X$ 
+- Features selection: Regress $Y$ on $X_{:,S}$, or in the form $U^\top X$ where $U$ only consists of $0,1$ 
+- The **theorem** of these example would be written by Prof. Zheng, and once it's done I need to go through it 
+#### Task 
+- Polish the proof and add it to the file `proof.tex`, which would be automatically added into `main.tex` 
+- Summarize the paper having been read, and add it to `literature.tex` 
+- Read *Building a stable classifier with the inflated arg-max* explicitly, whose contents might be of use for later work 
+- Check if there's **stochastic** algorithm case, if not (probably for simplicity) try generalizing (cover stochastic algorithm)
+- Reach Prof. Zheng next time when ready 
+
+#### Skills and experience 
+- *Ranking* Prop5: such a statement about opimimality is more like a specific case (depends on what you need) 
+- This paper (*Ranking*) cares only about **deterministic** algorithms, it's probably because most ranking methods are deterministic 
+- In what cases stochastic algorithms are included: SGD, resampling, etc. 
+
