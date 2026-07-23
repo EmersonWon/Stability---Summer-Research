@@ -20,3 +20,5 @@
 
 ### Questions
 - P13: See the equations starting with $R$, what exactly is the *empirical range*? Why do we use $\sup_{r:\mathcal{Q}_n(\{r\} ) >0}$? Isn't it supposed to be the same across all $r$?      ✅
+- How to simplify Assumption 7 in one sentence? 
+- Section 4.2: Figure 2, how to plot such digram (and why discontinuous part along with continuous one) 

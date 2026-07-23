@@ -10,7 +10,7 @@ Find the paper [here](https://github.com/EmersonWon/Stability---Summer-Research/
 #### 1.1 Problem Settings 
 - **Problem 1**: In supervised learning, there's many scenarios that the last paper's result about $\mathbb{R}$-value returns cannot covers, e.g. a function, or a vector of weights as the returns 
 - **Problem 2**: In Bayesian inference, we are intersted in th e posterior distribution of the parameter $\theta$, which is a vector of weights in discrete situations. Alternatively, if $\theta$ takes values in a continuous space, say $\mathbb{R}^d$, the result should be a distribution over $\mathbb{R}^d$ 
-- **Problem 3**: 
+- **Problem 3**: The use of *synthetic control method* (SCM) in causal inference, whose output is a weighted vector 
 - Other problems: Constrained Lasso/Ridge (on $\ell_q$-ball), Nonparametric regression (on Sobolev ball of funtions) 
 
 
