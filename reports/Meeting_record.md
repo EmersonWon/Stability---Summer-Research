@@ -43,3 +43,29 @@
 - This paper (*Ranking*) cares only about **deterministic** algorithms, it's probably because most ranking methods are deterministic 
 - In what cases stochastic algorithms are included: SGD, resampling, etc. 
 
+### 26.7.24 
+#### Main topic
+- Future plan: Ph.D. still can help you gain experience, and for broad study (rather than depth in Bachelor period) 
+- Possible programs to apply for: AI-related, like safety, interpretability and connections to fields that's not so developed as AI4M(like bio) 
+- AI works better in a closed framework. If you let AI arrange everything, it can give you a boring topic to work on (meaningless) 
+- Later in this project: case-led, work on the feature selection/screening first, not PCA(not worth trying) 
+#### Task 
+- Check if there's anything wrong with **Theorem 1**, and delete the *(to be proved)* label 
+- Go over the new related paper about stability recently published 
+- Check the feature selection part when added (1 or 2 days later) 
+#### Skills and experience 
+- Sometimes we would use asymptotic analysis to express a conclusion explicitly, as a compromise to condition 
+
+### 26.8.1 
+#### Main topic 
+- Recent problems: the matrix I constructed is not typical enough, since we hope the samples are i.i.d. (each is close) 
+- Prof. Zheng has an idea (with *orthogonal* design, the $\hat{\beta}$ would be $\rho_{X^{(j)},Y}\mathbf{1}\{j\in S\}$), but not explicit enough (covariance would change after LOO). But we could still try (focus on the set $S\Delta S^{\setminus k}, $) 
+- Note that the first step (variance filter) has nothing to do with $Y$ (*unsupervised learning*), so we could construct $X$ first to get $|S\Delta S^{\setminus k}|\ge $, then select an appropriate $Y$ to surfice $|\rho_{X^{(j)},Y}|>\varepsilon$
+- The current metric has its disadvantages, so we have several alternatives: 
+  - We prove that $\exist P_{(X,Y)}$ and $(X_i,Y_i)\mathrm{i.i.d.}\sim P$ (for simplicity, we could start from $X\sim N(0,I_p)$ and $Y=X\beta^*+\varepsilon$) and define a metric $$d(\beta^{(1)},\beta^{(2)})=\sqrt{\sum_{k=1}^p(\beta_j^{(1)}-\beta_j^{(2)})\frac{\mathrm{Var}(X_j)}{\mathrm
+  {Var}(Y)}}$$ (intuition: $\hat{\beta}\sqrt{\frac{\mathrm{Var}(X_j)}{\mathrm{Var}(Y)}}\approx \rho_{X_j,Y}$, which is population correlation), then we hope 
+  - The one more likely to succeed: $\forall \tau>0,\varepsilon\in (0,1), X$(full rank), $\exist c>0, Y\in \mathbb{R}^N$ s.t. $\mathcal{A}(cX,Y)$ is not $(\varepsilon, 1/2)$-stable. One possible path is to choose $c=\widehat{\mathrm{Var}}(X^{(j)})$ and $Y$ s.t. $\widehat{\rho}_{X^{(j)},Y}>\varepsilon $ 
+- A possible later procedure: we view the current procedure as multiplying by a indicator vector $Z\in \mathbb{R}^M$, $z_j\in \{0,1\}$; we could later exchange it with $z_j\in [0,1]$ to smooth it 
+- Others: my idea: other kinds of outputs followed by a similar *second-step* procedure like ranking. The problem is that we care about whether the inference is *valid* and *powerful* enough, but stability rarely plays a role (an estimated interval, $p$-value) 
+#### Task 
+- Check explicitly the alternative path mentioned above 
