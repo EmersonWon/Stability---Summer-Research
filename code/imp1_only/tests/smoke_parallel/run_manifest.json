@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "updated_at_utc": "2026-09-02T14:55:06Z",
+  "config_fingerprint": "3692dd6f13ad7b2e6ae66e12dc916cdf2abc9dfab37179d9e800188456d3c7bc",
+  "r_version": "R version 4.6.0 (2026-04-24 ucrt)",
+  "platform": "x86_64-w64-mingw32",
+  "rngkind": ["Mersenne-Twister", "Inversion", "Rejection"],
+  "packages": {
+    "ranger": "0.18.0",
+    "data.table": "1.18.4",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39",
+    "ggplot2": "4.0.3"
+  },
+  "output_rows": {
+    "deletion": 480,
+    "dataset": 24,
+    "summary": 24
+  },
+  "execution_scope": {
+    "setting_ids": [1, 2, 3, 4],
+    "replicate_ids": 1,
+    "method_ids": ["all_features", "hard_screening", "frozen_hard_screening", "soft2_nu_0.005", "soft2_nu_0.025", "soft2_nu_0.1"]
+  },
+  "plots": {
+    "setting_1": {
+      "histogram": "histograms_setting_1.png",
+      "tail_curve": "tail_curves_setting_1.png",
+      "histogram_data": "histogram_data_setting_1.csv",
+      "tail_curve_data": "tail_curve_data_setting_1.csv",
+      "common_horizontal_max": 3.8092258570016719
+    },
+    "setting_2": {
+      "histogram": "histograms_setting_2.png",
+      "tail_curve": "tail_curves_setting_2.png",
+      "histogram_data": "histogram_data_setting_2.csv",
+      "tail_curve_data": "tail_curve_data_setting_2.csv",
+      "common_horizontal_max": 1.2881347930425171
+    },
+    "setting_3": {
+      "histogram": "histograms_setting_3.png",
+      "tail_curve": "tail_curves_setting_3.png",
+      "histogram_data": "histogram_data_setting_3.csv",
+      "tail_curve_data": "tail_curve_data_setting_3.csv",
+      "common_horizontal_max": 1.1318187399733053
+    },
+    "setting_4": {
+      "histogram": "histograms_setting_4.png",
+      "tail_curve": "tail_curves_setting_4.png",
+      "histogram_data": "histogram_data_setting_4.csv",
+      "tail_curve_data": "tail_curve_data_setting_4.csv",
+      "common_horizontal_max": 3.592698032149622
+    }
+  },
+  "validation_report": "validation_report.json"
+}

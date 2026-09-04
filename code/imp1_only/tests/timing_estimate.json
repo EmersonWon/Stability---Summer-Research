@@ -1,0 +1,16 @@
+{
+  "measured_at": "2026-09-02T14:55:44Z",
+  "setting": 1,
+  "replicate": 1,
+  "method_mean_seconds": {
+    "all_features": 2.79,
+    "frozen_hard_screening": 1.25,
+    "hard_screening": 1.375,
+    "soft2_nu_0.005": 2.6850000000000005,
+    "soft2_nu_0.025": 4.2249999999999996,
+    "soft2_nu_0.1": 5.4999999999999982
+  },
+  "estimated_single_worker_hours": 99.225833333333327,
+  "idealized_eight_worker_hours": 12.403229166666666,
+  "caveat": "One full and one deleted fit per method; not a guarantee. Parallel contention, cooling, differing settings/masks, and I/O alter wall time."
+}

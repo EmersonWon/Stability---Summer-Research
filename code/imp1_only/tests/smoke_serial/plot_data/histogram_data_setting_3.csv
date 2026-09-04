@@ -1,0 +1,121 @@
+"setting","replicate","deletion","method_order","method_id","method_label","delta"
+3,1,1,1,"all_features","All-feature RF",0.433284619569365
+3,1,2,1,"all_features","All-feature RF",0.476675041849547
+3,1,3,1,"all_features","All-feature RF",0.497179295114324
+3,1,4,1,"all_features","All-feature RF",0.490195650292796
+3,1,5,1,"all_features","All-feature RF",0.465797208828046
+3,1,6,1,"all_features","All-feature RF",0.583555336223254
+3,1,7,1,"all_features","All-feature RF",0.556279335276279
+3,1,8,1,"all_features","All-feature RF",0.539218929838973
+3,1,9,1,"all_features","All-feature RF",0.685789073515883
+3,1,10,1,"all_features","All-feature RF",0.768968180933607
+3,1,11,1,"all_features","All-feature RF",0.761374269706883
+3,1,12,1,"all_features","All-feature RF",0.85522843543975
+3,1,13,1,"all_features","All-feature RF",0.642466181600851
+3,1,14,1,"all_features","All-feature RF",0.808857812861203
+3,1,15,1,"all_features","All-feature RF",0.540758479751196
+3,1,16,1,"all_features","All-feature RF",0.53947595830468
+3,1,17,1,"all_features","All-feature RF",0.462338018543851
+3,1,18,1,"all_features","All-feature RF",0.40834954116412
+3,1,19,1,"all_features","All-feature RF",0.487740225017167
+3,1,20,1,"all_features","All-feature RF",0.779715416846353
+3,1,1,2,"hard_screening","Hard screen",0.0002253022145689
+3,1,2,2,"hard_screening","Hard screen",0.00587532505045978
+3,1,3,2,"hard_screening","Hard screen",0.00308309811694057
+3,1,4,2,"hard_screening","Hard screen",0.00124164208096117
+3,1,5,2,"hard_screening","Hard screen",0.0078386367004843
+3,1,6,2,"hard_screening","Hard screen",0.000140361579661093
+3,1,7,2,"hard_screening","Hard screen",0.0215895413897796
+3,1,8,2,"hard_screening","Hard screen",9.31059044383404e-05
+3,1,9,2,"hard_screening","Hard screen",0.00236058321673425
+3,1,10,2,"hard_screening","Hard screen",0.00342532906844473
+3,1,11,2,"hard_screening","Hard screen",8.48849256453944e-06
+3,1,12,2,"hard_screening","Hard screen",0.00659637091102246
+3,1,13,2,"hard_screening","Hard screen",0.000357375778627982
+3,1,14,2,"hard_screening","Hard screen",0.0167788146918465
+3,1,15,2,"hard_screening","Hard screen",0.00243644952838547
+3,1,16,2,"hard_screening","Hard screen",0.00106851036595685
+3,1,17,2,"hard_screening","Hard screen",0.00399958742661054
+3,1,18,2,"hard_screening","Hard screen",0.00502566432622207
+3,1,19,2,"hard_screening","Hard screen",0.00126808641158836
+3,1,20,2,"hard_screening","Hard screen",0.0244050305326235
+3,1,1,3,"frozen_hard_screening","Frozen hard screen",0.0002253022145689
+3,1,2,3,"frozen_hard_screening","Frozen hard screen",0.00587532505045978
+3,1,3,3,"frozen_hard_screening","Frozen hard screen",0.00308309811694057
+3,1,4,3,"frozen_hard_screening","Frozen hard screen",0.00124164208096117
+3,1,5,3,"frozen_hard_screening","Frozen hard screen",0.0078386367004843
+3,1,6,3,"frozen_hard_screening","Frozen hard screen",0.000140361579661093
+3,1,7,3,"frozen_hard_screening","Frozen hard screen",0.0215895413897796
+3,1,8,3,"frozen_hard_screening","Frozen hard screen",9.31059044383404e-05
+3,1,9,3,"frozen_hard_screening","Frozen hard screen",0.00236058321673425
+3,1,10,3,"frozen_hard_screening","Frozen hard screen",0.00342532906844473
+3,1,11,3,"frozen_hard_screening","Frozen hard screen",8.48849256453944e-06
+3,1,12,3,"frozen_hard_screening","Frozen hard screen",0.00659637091102246
+3,1,13,3,"frozen_hard_screening","Frozen hard screen",0.000357375778627982
+3,1,14,3,"frozen_hard_screening","Frozen hard screen",0.0167788146918465
+3,1,15,3,"frozen_hard_screening","Frozen hard screen",0.00243644952838547
+3,1,16,3,"frozen_hard_screening","Frozen hard screen",0.00106851036595685
+3,1,17,3,"frozen_hard_screening","Frozen hard screen",0.00399958742661054
+3,1,18,3,"frozen_hard_screening","Frozen hard screen",0.00502566432622207
+3,1,19,3,"frozen_hard_screening","Frozen hard screen",0.00126808641158836
+3,1,20,3,"frozen_hard_screening","Frozen hard screen",0.0244050305326235
+3,1,1,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.0002253022145689
+3,1,2,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00587532505045978
+3,1,3,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00308309811694057
+3,1,4,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00124164208096117
+3,1,5,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.0078386367004843
+3,1,6,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.000140361579661093
+3,1,7,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.0215895413897796
+3,1,8,7,"soft2_nu_0.005","Soft 2, nu=0.005",9.31059044383404e-05
+3,1,9,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00236058321673425
+3,1,10,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00342532906844473
+3,1,11,7,"soft2_nu_0.005","Soft 2, nu=0.005",8.48849256453944e-06
+3,1,12,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00659637091102246
+3,1,13,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.000357375778627982
+3,1,14,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.0167788146918465
+3,1,15,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00243644952838547
+3,1,16,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00106851036595685
+3,1,17,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00399958742661054
+3,1,18,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00502566432622207
+3,1,19,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.00126808641158836
+3,1,20,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.0244050305326235
+3,1,1,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.207049864452858
+3,1,2,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.201735385366056
+3,1,3,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.21727487949082
+3,1,4,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.206387581921492
+3,1,5,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.253382798075294
+3,1,6,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.149055766823318
+3,1,7,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.38306034300098
+3,1,8,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.217866791692582
+3,1,9,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.212479585838597
+3,1,10,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.232047752464691
+3,1,11,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.21613088061243
+3,1,12,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.14005238593363
+3,1,13,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.0188859387277198
+3,1,14,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.0890390973705679
+3,1,15,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.0347837908092248
+3,1,16,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.213277190083225
+3,1,17,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.0880021453798502
+3,1,18,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.0807162703377481
+3,1,19,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.107965888074544
+3,1,20,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.173971691721326
+3,1,1,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.375798394627399
+3,1,2,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.361037493596515
+3,1,3,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.492000884216392
+3,1,4,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.320793235709752
+3,1,5,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.3050694686714
+3,1,6,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.288344043931352
+3,1,7,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.86112397137191
+3,1,8,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.488310463624222
+3,1,9,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.976774690476894
+3,1,10,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.519239273633094
+3,1,11,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.347371253188002
+3,1,12,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.56641936442498
+3,1,13,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.467869933076795
+3,1,14,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.576794417231754
+3,1,15,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.475575027798724
+3,1,16,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.4409813419098
+3,1,17,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.371354744061387
+3,1,18,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.371354744061387
+3,1,19,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.559800039953011
+3,1,20,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.13181873997331

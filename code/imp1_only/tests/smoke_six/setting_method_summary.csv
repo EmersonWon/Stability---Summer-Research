@@ -1,0 +1,7 @@
+"setting","method_id","method_order","method_label","method","implementation","nu","M","T","completed_replicates","mean_beta2","sd_beta2_between_replicates"
+1,"all_features",1,"All-feature RF","all_features",,,,3,1,1.3826019195561,
+1,"hard_screening",2,"Hard screen","hard_screening",,,,3,1,2.35830182475641,
+1,"frozen_hard_screening",3,"Frozen hard screen","frozen_hard_screening",,,,3,1,0.521605167545791,
+1,"soft2_nu_0.005",7,"Soft 2, nu=0.005","soft_screening",2,0.005,3,3,1,0.850724886674407,
+1,"soft2_nu_0.025",8,"Soft 2, nu=0.025","soft_screening",2,0.025,3,3,1,1.10870235726771,
+1,"soft2_nu_0.1",9,"Soft 2, nu=0.1","soft_screening",2,0.1,3,3,1,1.14867995845195,

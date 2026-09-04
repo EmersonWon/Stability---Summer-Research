@@ -1,0 +1,7 @@
+"method_order","method_id","method_label","Setting_1","Setting_2","Setting_3","Setting_4"
+1,"all_features","All-feature RF","1.3826 (NA)","0.607101 (NA)","0.589162 (NA)","0.963651 (NA)"
+2,"hard_screening","Hard screen","2.3583 (NA)","0.508043 (NA)","0.00539087 (NA)","1.2931 (NA)"
+3,"frozen_hard_screening","Frozen hard screen","0.521605 (NA)","0.00560539 (NA)","0.00539087 (NA)","1.82202 (NA)"
+7,"soft2_nu_0.005","Soft 2, nu=0.005","0.850725 (NA)","0.41663 (NA)","0.00539087 (NA)","1.60752 (NA)"
+8,"soft2_nu_0.025","Soft 2, nu=0.025","1.1087 (NA)","0.317515 (NA)","0.172158 (NA)","1.40873 (NA)"
+9,"soft2_nu_0.1","Soft 2, nu=0.1","1.14868 (NA)","0.409851 (NA)","0.514892 (NA)","1.33225 (NA)"

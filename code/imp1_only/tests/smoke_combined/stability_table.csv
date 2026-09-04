@@ -1,0 +1,10 @@
+method_order,method_id,method_label,Setting_1
+1,all_features,All-feature RF,1.3826 (NA)
+2,hard_screening,Hard screen,2.3583 (NA)
+3,frozen_hard_screening,Frozen hard screen,0.521605 (NA)
+4,soft1_nu_0.005,"Soft 1, nu=0.005",0.924303 (NA)
+5,soft1_nu_0.025,"Soft 1, nu=0.025",0.968052 (NA)
+6,soft1_nu_0.1,"Soft 1, nu=0.1",0.870547 (NA)
+7,soft2_nu_0.005,"Soft 2, nu=0.005",0.850725 (NA)
+8,soft2_nu_0.025,"Soft 2, nu=0.025",1.1087 (NA)
+9,soft2_nu_0.1,"Soft 2, nu=0.1",1.14868 (NA)

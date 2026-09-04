@@ -1,0 +1,21 @@
+{
+  "name": "full_R10_four_settings_soft_implementation_1_only",
+  "rscript": "C:\\Program Files\\R\\R-4.6.0\\bin\\x64\\Rscript.exe",
+  "replicates": "1-10",
+  "settings": "1-4",
+  "methods": [
+    "soft1_nu_0.005",
+    "soft1_nu_0.025",
+    "soft1_nu_0.1"
+  ],
+  "default_workers": 8,
+  "ranger_threads_per_worker": 1,
+  "expected_deletion_rows": 60000,
+  "expected_dataset_method_rows": 120,
+  "expected_setting_method_summary_rows": 12,
+  "reuse_previous_run_checkpoints": false,
+  "matched_randomization": "Uses the same prespecified design, replicate seeds, test samples, masks and learner-seed schedule as the validated six-method run.",
+  "previous_results_dir": "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_no_soft1_20260902\\results",
+  "combined_output_dir": "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\combined_R10_all9_20260904",
+  "postprocess_script": "merge_with_previous.R"
+}

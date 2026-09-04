@@ -1,0 +1,13 @@
+"method_id","variant","elapsed_seconds"
+"all_features","full",2.89
+"all_features","delete_1",2.69
+"hard_screening","full",1.39
+"hard_screening","delete_1",1.36
+"frozen_hard_screening","full",1.33
+"frozen_hard_screening","delete_1",1.17
+"soft2_nu_0.005","full",2.98
+"soft2_nu_0.005","delete_1",2.39
+"soft2_nu_0.025","full",4.25
+"soft2_nu_0.025","delete_1",4.2
+"soft2_nu_0.1","full",5.41
+"soft2_nu_0.1","delete_1",5.59

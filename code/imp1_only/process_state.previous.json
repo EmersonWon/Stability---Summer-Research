@@ -1,0 +1,31 @@
+{
+    "Status":  "running",
+    "StartedAt":  "2026-09-04T01:19:09.1020890+08:00",
+    "HostProcessId":  25128,
+    "RProcessId":  28148,
+    "RStartTimeUtc":  "2026-09-03T17:19:09.1020890Z",
+    "Workers":  8,
+    "MaxHours":  0,
+    "TemporaryKeepAwake":  true,
+    "OutputDirectory":  "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\results",
+    "StandardOutput":  "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\logs\\run_20260904_011908_858.stdout.log",
+    "StandardError":  "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\logs\\run_20260904_011908_858.stderr.log",
+    "Arguments":  [
+                      "--vanilla",
+                      "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\code\\run_main.R",
+                      "--replicates",
+                      "1-10",
+                      "--settings",
+                      "1-4",
+                      "--methods",
+                      "soft1_nu_0.005,soft1_nu_0.025,soft1_nu_0.1",
+                      "--workers",
+                      "8",
+                      "--output-dir",
+                      "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\results"
+                  ],
+    "LastHeartbeat":  "2026-09-04T11:31:36.9730385+08:00",
+    "EndedAt":  null,
+    "ExitCode":  null,
+    "PostProcess":  null
+}

@@ -1,0 +1,10 @@
+setting,method_id,method_order,method_label,implementation,nu,replicates,mean_beta2,sd_beta2_between_replicates,mean_prediction_risk,sd_prediction_risk_between_replicates,method_label_plot
+1,all_features,1,All-feature RF,,,1,1.3826019195561,,3.20203127030399,,All-feature RF
+1,hard_screening,2,Hard screen,,,1,2.35830182475641,,4.73276060726385,,Hard screen
+1,frozen_hard_screening,3,Frozen hard screen,,,1,0.521605167545791,,4.29831240559195,,Frozen hard screen
+1,soft1_nu_0.005,4,"Soft 1, nu=0.005",1,0.005,1,0.924303429976438,,3.91769169682861,,"Soft 1, nu=0.005"
+1,soft1_nu_0.025,5,"Soft 1, nu=0.025",1,0.025,1,0.968051802623479,,3.4516070580136,,"Soft 1, nu=0.025"
+1,soft1_nu_0.1,6,"Soft 1, nu=0.1",1,0.1,1,0.870546900484473,,2.60293443607305,,"Soft 1, nu=0.1"
+1,soft2_nu_0.005,7,"Soft 2, nu=0.005",2,0.005,1,0.850724886674407,,3.07610460386903,,"Soft 2, nu=0.005"
+1,soft2_nu_0.025,8,"Soft 2, nu=0.025",2,0.025,1,1.10870235726771,,2.62641257258225,,"Soft 2, nu=0.025"
+1,soft2_nu_0.1,9,"Soft 2, nu=0.1",2,0.1,1,1.14867995845195,,2.62757097984444,,"Soft 2, nu=0.1"

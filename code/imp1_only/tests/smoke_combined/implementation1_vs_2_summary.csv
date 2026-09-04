@@ -1,0 +1,4 @@
+setting,nu,paired_replicates,mean_soft1_beta2,mean_soft2_beta2,mean_beta2_difference_soft1_minus_soft2,sd_paired_beta2_difference,proportion_replicates_soft1_lower_beta2,mean_soft1_prediction_risk,mean_soft2_prediction_risk,mean_risk_difference_soft1_minus_soft2,sd_paired_risk_difference,proportion_replicates_soft1_lower_risk
+1,0.005,1,0.924303429976438,0.850724886674407,0.073578543302031,,0,3.91769169682861,3.07610460386903,0.84158709295958,,0
+1,0.025,1,0.968051802623479,1.10870235726771,-0.140650554644231,,1,3.4516070580136,2.62641257258225,0.82519448543135,,0
+1,0.1,1,0.870546900484473,1.14867995845195,-0.278133057967477,,1,2.60293443607305,2.62757097984444,-0.0246365437713902,,1

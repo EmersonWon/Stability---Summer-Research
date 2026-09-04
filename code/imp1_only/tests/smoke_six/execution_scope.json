@@ -1,0 +1,5 @@
+{
+  "setting_ids": 1,
+  "replicate_ids": 1,
+  "method_ids": ["all_features", "hard_screening", "frozen_hard_screening", "soft2_nu_0.005", "soft2_nu_0.025", "soft2_nu_0.1"]
+}

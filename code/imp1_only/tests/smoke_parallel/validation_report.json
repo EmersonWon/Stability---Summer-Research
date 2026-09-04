@@ -1,0 +1,14 @@
+{
+  "expected_complete_study_deletion_rows": 480,
+  "actual_deletion_rows": 480,
+  "actual_dataset_method_rows": 24,
+  "actual_setting_method_summary_rows": 24,
+  "duplicate_deletion_keys": 0,
+  "every_prediction_comparison_uses_n_test": true,
+  "every_completed_cell_has_all_deletions": true,
+  "expected_method_count": 6,
+  "observed_method_count": 6,
+  "full_fit_checkpoints": 24,
+  "deletion_checkpoints": 480,
+  "screening_audit_files": 4
+}

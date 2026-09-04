@@ -1,0 +1,121 @@
+starting worker pid=14644 on localhost:11804 at 22:54:53.557
+setting 2, replicate 1: all_features
+setting 1, replicate 1: all_features
+  completed deletion 5/20
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 15/20
+  completed deletion 20/20
+setting 1, replicate 1: hard_screening
+  completed deletion 20/20
+setting 2, replicate 1: hard_screening
+  completed deletion 5/20
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 15/20
+  completed deletion 20/20
+setting 2, replicate 1: frozen_hard_screening
+  completed deletion 20/20
+setting 1, replicate 1: frozen_hard_screening
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 10/20
+  completed deletion 20/20
+setting 2, replicate 1: soft2_nu_0.005
+  completed deletion 15/20
+  completed deletion 20/20
+setting 1, replicate 1: soft2_nu_0.005
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+setting 2, replicate 1: soft2_nu_0.025
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 20/20
+  completed deletion 10/20
+setting 1, replicate 1: soft2_nu_0.025
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+setting 2, replicate 1: soft2_nu_0.1
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 20/20
+setting 1, replicate 1: soft2_nu_0.1
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+  completed deletion 10/20
+setting 3, replicate 1: all_features
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+  completed deletion 10/20
+setting 4, replicate 1: all_features
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+setting 3, replicate 1: hard_screening
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 20/20
+setting 4, replicate 1: hard_screening
+  completed deletion 20/20
+setting 3, replicate 1: frozen_hard_screening
+  completed deletion 5/20
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 15/20
+  completed deletion 20/20
+setting 3, replicate 1: soft2_nu_0.005
+  completed deletion 20/20
+setting 4, replicate 1: frozen_hard_screening
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 10/20
+  completed deletion 20/20
+setting 3, replicate 1: soft2_nu_0.025
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+setting 4, replicate 1: soft2_nu_0.005
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 10/20
+  completed deletion 20/20
+setting 3, replicate 1: soft2_nu_0.1
+  completed deletion 15/20
+  completed deletion 5/20
+  completed deletion 20/20
+setting 4, replicate 1: soft2_nu_0.025
+  completed deletion 10/20
+  completed deletion 5/20
+  completed deletion 15/20
+  completed deletion 10/20
+  completed deletion 20/20
+  completed deletion 15/20
+  completed deletion 20/20
+setting 4, replicate 1: soft2_nu_0.1
+  completed deletion 5/20
+  completed deletion 10/20
+  completed deletion 15/20
+  completed deletion 20/20

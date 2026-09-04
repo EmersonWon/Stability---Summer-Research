@@ -1,0 +1,47 @@
+{
+  "schema_version": 3,
+  "algorithm_version": "main_study_v1",
+  "rng": {
+    "kind": "Mersenne-Twister",
+    "normal_kind": "Inversion",
+    "sample_kind": "Rejection"
+  },
+  "coefficient_seed": 460001,
+  "replicate_seeds": [460101, 460219, 460337, 460453, 460579, 460703, 460829, 460951, 461071, 461207],
+  "simulation": {
+    "replicates": 10,
+    "n": 500,
+    "p": 200,
+    "n_test": 5000,
+    "variance_threshold": 1.0,
+    "noise_variance": 1.0
+  },
+  "settings": [
+    {"id": 1, "covariates": "gaussian_independent", "mean": "sparse_nonlinear", "b": 0.0, "a": 0.7071068},
+    {"id": 2, "covariates": "uniform_independent", "mean": "sparse_nonlinear", "b": 0.0, "a": 0.7389858},
+    {"id": 3, "covariates": "gaussian_ar1", "rho": 0.9, "mean": "sparse_nonlinear", "b": 0.9, "a": 0.5027818},
+    {"id": 4, "covariates": "gaussian_independent_shared_with_setting_1", "mean": "dense_linear"}
+  ],
+  "random_forest": {
+    "trees": 250,
+    "min_node_size": 5,
+    "mtry_rule": "floor_d_over_3",
+    "num_threads": 1
+  },
+  "soft_screening": {
+    "nu": [0.005, 0.025, 0.1],
+    "implementation_1_masks": 25,
+    "implementation_2_masks": 250
+  },
+  "methods": [
+    "all_features",
+    "hard_screening",
+    "frozen_hard_screening",
+    "soft_implementation_1_nu_0.005",
+    "soft_implementation_1_nu_0.025",
+    "soft_implementation_1_nu_0.1",
+    "soft_implementation_2_nu_0.005",
+    "soft_implementation_2_nu_0.025",
+    "soft_implementation_2_nu_0.1"
+  ]
+}

@@ -1,0 +1,4 @@
+"setting","method_id","method_order","method_label","method","implementation","nu","M","T","completed_replicates","mean_beta2","sd_beta2_between_replicates"
+1,"soft1_nu_0.005",4,"Soft 1, nu=0.005","soft_screening",1,0.005,2,3,1,0.924303429976438,
+1,"soft1_nu_0.025",5,"Soft 1, nu=0.025","soft_screening",1,0.025,2,3,1,0.968051802623479,
+1,"soft1_nu_0.1",6,"Soft 1, nu=0.1","soft_screening",1,0.1,2,3,1,0.870546900484473,

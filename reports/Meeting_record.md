@@ -56,7 +56,7 @@
 #### Skills and experience 
 - Sometimes we would use asymptotic analysis to express a conclusion explicitly, as a compromise to condition 
 
-### 26.8.1 
+### 26.7.31
 #### Main topic 
 - Recent problems: the matrix I constructed is not typical enough, since we hope the samples are i.i.d. (each is close) 
 - Prof. Zheng has an idea (with *orthogonal* design, the $\hat{\beta}$ would be $\rho_{X^{(j)},Y}\mathbf{1}\{j\in S\}$), but not explicit enough (covariance would change after LOO). But we could still try (focus on the set $S\Delta S^{\setminus k}, $) 
@@ -69,3 +69,32 @@
 - Others: my idea: other kinds of outputs followed by a similar *second-step* procedure like ranking. The problem is that we care about whether the inference is *valid* and *powerful* enough, but stability rarely plays a role (an estimated interval, $p$-value) 
 #### Task 
 - Check explicitly the alternative path mentioned above 
+
+### 26.8.7 
+#### Main topic 
+- Since it's difficult to find an exact or moderate condition needed for instability of *feature selection + linear regression*, we would rather pause here and consider the opposite: we propose a method called **soft selection**, and will try proving its properties(stability, lower bound) 
+- Prof. Zheng had a result about the instability of the *population-case*, but we won't need it if the result above works well (the result would require conditions like $\varepsilon^2 \delta\ge\frac{1}{\sqrt{n}}$)
+- Since we get the predictor through $\hat{f}(x)=\frac{1}{B}\sum_{b=1}^Bx_{S^{(b)}}^\top \hat{\beta}_{S^{(b)}}^{(b)}$, we could measure the stability using the former metric on $\hat{\beta}=\frac{1}{B}\sum_{b=1}^B\hat{\beta}_{S^{(b)}} $; or trying stability of $\hat{f}(x)$ instead 
+- If showing tail stability is hard, try replacing $\mathbb{P}_\xi$ by $\mathbb{P}_{\xi ,\mathcal{D}}$ (e.g. Gaussian) where $Z_1,\cdots,Z_n\overset{i.i.d.}{\sim}\mathcal{P}$ 
+- I find it not good enough if we only show the orthogonal case works, because generalizing could be tough and in $p>n$ cases the orthogonal design does not exist. To cope with it, we could exchange linear regression with **oracle prediction** 
+- We would convert some examples that we were to dig into, for we need to concentrate our intuition in a paper 
+#### Task 
+- Wait until the framework is formalize and try proving the upper bound(stability) 
+
+### 26.8.17
+#### Main topic 
+- For the lack of availbility, we change the notion of stability from **tail** to **mean-square** 
+- The tail stability regarding arbitary parameters is accessible for bagged algorithm, so no worry 
+#### Task 
+- Convert the theorem from *tail* version to *mean-square* version 
+
+### 26.8.21 
+#### Main topic 
+- Since the proof has been completed (Thm.3 cannot be reached, thus deleted), the next step would be some experiments 
+- Also consider some generalizations of the whole stabilization framework 
+#### Task
+- Simulation (follow the pilot study)
+
+### 26.9.1 
+#### Main topic
+- 

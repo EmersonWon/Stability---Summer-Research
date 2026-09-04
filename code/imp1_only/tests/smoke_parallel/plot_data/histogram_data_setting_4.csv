@@ -1,0 +1,121 @@
+"setting","replicate","deletion","method_order","method_id","method_label","delta"
+4,1,1,1,"all_features","All-feature RF",1.48253804498534
+4,1,2,1,"all_features","All-feature RF",2.18333304381187
+4,1,3,1,"all_features","All-feature RF",2.77590140666446
+4,1,4,1,"all_features","All-feature RF",0.579933665381138
+4,1,5,1,"all_features","All-feature RF",0.655441329817224
+4,1,6,1,"all_features","All-feature RF",0.801120847535396
+4,1,7,1,"all_features","All-feature RF",0.801120847535396
+4,1,8,1,"all_features","All-feature RF",1.2587272384554
+4,1,9,1,"all_features","All-feature RF",0.867559807537413
+4,1,10,1,"all_features","All-feature RF",0.877342119445726
+4,1,11,1,"all_features","All-feature RF",0.871294745826382
+4,1,12,1,"all_features","All-feature RF",0.78606572675069
+4,1,13,1,"all_features","All-feature RF",0.605562876254243
+4,1,14,1,"all_features","All-feature RF",0.605562876254243
+4,1,15,1,"all_features","All-feature RF",0.726383515716459
+4,1,16,1,"all_features","All-feature RF",0.619177551618855
+4,1,17,1,"all_features","All-feature RF",0.643234775166396
+4,1,18,1,"all_features","All-feature RF",0.647536090030705
+4,1,19,1,"all_features","All-feature RF",0.701970657900916
+4,1,20,1,"all_features","All-feature RF",0.783214819911439
+4,1,1,2,"hard_screening","Hard screen",1.53366277919612
+4,1,2,2,"hard_screening","Hard screen",1.9869960150633
+4,1,3,2,"hard_screening","Hard screen",1.30657742009999
+4,1,4,2,"hard_screening","Hard screen",0.592959863579254
+4,1,5,2,"hard_screening","Hard screen",2.17545035908678
+4,1,6,2,"hard_screening","Hard screen",1.59505507631134
+4,1,7,2,"hard_screening","Hard screen",1.58588240576358
+4,1,8,2,"hard_screening","Hard screen",0.520489426745421
+4,1,9,2,"hard_screening","Hard screen",2.11060770139834
+4,1,10,2,"hard_screening","Hard screen",1.25432728471649
+4,1,11,2,"hard_screening","Hard screen",0.378951254106498
+4,1,12,2,"hard_screening","Hard screen",1.54455321253334
+4,1,13,2,"hard_screening","Hard screen",1.22837205490268
+4,1,14,2,"hard_screening","Hard screen",1.22207121271837
+4,1,15,2,"hard_screening","Hard screen",1.39564502741948
+4,1,16,2,"hard_screening","Hard screen",0.720730628926615
+4,1,17,2,"hard_screening","Hard screen",0.879940741402648
+4,1,18,2,"hard_screening","Hard screen",0.836546022695969
+4,1,19,2,"hard_screening","Hard screen",1.39690399727823
+4,1,20,2,"hard_screening","Hard screen",1.59634419971521
+4,1,1,3,"frozen_hard_screening","Frozen hard screen",1.53366334084142
+4,1,2,3,"frozen_hard_screening","Frozen hard screen",1.46494621143933
+4,1,3,3,"frozen_hard_screening","Frozen hard screen",0.905968931244257
+4,1,4,3,"frozen_hard_screening","Frozen hard screen",1.35893967694494
+4,1,5,3,"frozen_hard_screening","Frozen hard screen",1.91572592844927
+4,1,6,3,"frozen_hard_screening","Frozen hard screen",1.29746172169585
+4,1,7,3,"frozen_hard_screening","Frozen hard screen",2.22151617107139
+4,1,8,3,"frozen_hard_screening","Frozen hard screen",3.59269803214962
+4,1,9,3,"frozen_hard_screening","Frozen hard screen",1.60616354567838
+4,1,10,3,"frozen_hard_screening","Frozen hard screen",1.45798070003957
+4,1,11,3,"frozen_hard_screening","Frozen hard screen",1.45798070003957
+4,1,12,3,"frozen_hard_screening","Frozen hard screen",1.45275183985268
+4,1,13,3,"frozen_hard_screening","Frozen hard screen",1.8433311024008
+4,1,14,3,"frozen_hard_screening","Frozen hard screen",1.77950971005775
+4,1,15,3,"frozen_hard_screening","Frozen hard screen",1.78883476545591
+4,1,16,3,"frozen_hard_screening","Frozen hard screen",1.75268619297496
+4,1,17,3,"frozen_hard_screening","Frozen hard screen",2.14961758068256
+4,1,18,3,"frozen_hard_screening","Frozen hard screen",2.2082084653664
+4,1,19,3,"frozen_hard_screening","Frozen hard screen",2.3222620778522
+4,1,20,3,"frozen_hard_screening","Frozen hard screen",2.33010442879114
+4,1,1,7,"soft2_nu_0.005","Soft 2, nu=0.005",2.32570094465637
+4,1,2,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.25187195296248
+4,1,3,7,"soft2_nu_0.005","Soft 2, nu=0.005",3.54872090918815
+4,1,4,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.388344011751653
+4,1,5,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.978027902653398
+4,1,6,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.862555567840887
+4,1,7,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.899205855862132
+4,1,8,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.4062891845212
+4,1,9,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.42452662701312
+4,1,10,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.42452662701312
+4,1,11,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.37805629935726
+4,1,12,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.35947900713208
+4,1,13,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.95307918133852
+4,1,14,7,"soft2_nu_0.005","Soft 2, nu=0.005",2.76022716334366
+4,1,15,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.827049515209866
+4,1,16,7,"soft2_nu_0.005","Soft 2, nu=0.005",2.31463438279683
+4,1,17,7,"soft2_nu_0.005","Soft 2, nu=0.005",0.929771248788099
+4,1,18,7,"soft2_nu_0.005","Soft 2, nu=0.005",2.89990426905985
+4,1,19,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.67692166004341
+4,1,20,7,"soft2_nu_0.005","Soft 2, nu=0.005",1.54145716163721
+4,1,1,8,"soft2_nu_0.025","Soft 2, nu=0.025",2.31903288576074
+4,1,2,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.48530877269084
+4,1,3,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.99172198795097
+4,1,4,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.622739675800969
+4,1,5,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.861936051675558
+4,1,6,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.687213618224285
+4,1,7,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.695916279445821
+4,1,8,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.484351888292
+4,1,9,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.09782537163838
+4,1,10,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.856345073502099
+4,1,11,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.887955781048241
+4,1,12,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.31198076224982
+4,1,13,8,"soft2_nu_0.025","Soft 2, nu=0.025",2.10035258114209
+4,1,14,8,"soft2_nu_0.025","Soft 2, nu=0.025",2.05635346003525
+4,1,15,8,"soft2_nu_0.025","Soft 2, nu=0.025",0.676115784945343
+4,1,16,8,"soft2_nu_0.025","Soft 2, nu=0.025",2.50955732914878
+4,1,17,8,"soft2_nu_0.025","Soft 2, nu=0.025",2.21666687352215
+4,1,18,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.86760242291874
+4,1,19,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.34528604816204
+4,1,20,8,"soft2_nu_0.025","Soft 2, nu=0.025",1.10039248988114
+4,1,1,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.18404628319168
+4,1,2,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.770560345111395
+4,1,3,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.41255489777834
+4,1,4,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.639365547655769
+4,1,5,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.679355499513813
+4,1,6,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.787993468889462
+4,1,7,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.7837863159495
+4,1,8,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.990577557326713
+4,1,9,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.990577557326713
+4,1,10,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.990577557326713
+4,1,11,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.813810169205231
+4,1,12,9,"soft2_nu_0.1","Soft 2, nu=0.1",0.923617791040384
+4,1,13,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.80052994741702
+4,1,14,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.824526464418
+4,1,15,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.4711111946645
+4,1,16,9,"soft2_nu_0.1","Soft 2, nu=0.1",2.01888529593339
+4,1,17,9,"soft2_nu_0.1","Soft 2, nu=0.1",2.01888529593339
+4,1,18,9,"soft2_nu_0.1","Soft 2, nu=0.1",2.59765974768508
+4,1,19,9,"soft2_nu_0.1","Soft 2, nu=0.1",1.89043642377829
+4,1,20,9,"soft2_nu_0.1","Soft 2, nu=0.1",2.05610187378044

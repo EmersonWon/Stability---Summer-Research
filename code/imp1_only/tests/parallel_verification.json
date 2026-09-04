@@ -1,0 +1,10 @@
+{
+  "pass": true,
+  "deletion_rows": 480,
+  "methods": 6,
+  "settings": 4,
+  "complete_dataset_method_cells": 24,
+  "serial_parallel_predictions_identical": true,
+  "serial_parallel_result_rows_identical": true,
+  "no_soft1_fits": true
+}

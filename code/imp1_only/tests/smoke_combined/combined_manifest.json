@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "updated_at_utc": "2026-09-03T17:31:26Z",
+  "config_fingerprint": "3692dd6f13ad7b2e6ae66e12dc916cdf2abc9dfab37179d9e800188456d3c7bc",
+  "sources": {
+    "six_method_results": "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\tests\\smoke_six",
+    "soft_implementation_1_results": "C:\\Users\\CHWon\\Documents\\Codex\\2026-08-29\\x20-github-plugin-github-openai-curated\\outputs\\full_R10_soft1_only_20260904\\tests\\smoke_soft1"
+  },
+  "output_rows": {
+    "deletion": 180,
+    "dataset": 9,
+    "summary": 9
+  },
+  "methods": ["all_features", "hard_screening", "frozen_hard_screening", "soft1_nu_0.005", "soft1_nu_0.025", "soft1_nu_0.1", "soft2_nu_0.005", "soft2_nu_0.025", "soft2_nu_0.1"],
+  "primary_tables": ["stability_table.csv", "performance_summary.csv", "comparison_vs_all_features.csv", "implementation1_vs_2_summary.csv", "implementation1_vs_2_replicate_pairs.csv"],
+  "plots": {
+    "setting_1": {
+      "histogram": "histograms_setting_1.png",
+      "tail_curve": "tail_curves_setting_1.png",
+      "histogram_data": "histogram_data_setting_1.csv",
+      "tail_curve_data": "tail_curve_data_setting_1.csv",
+      "common_horizontal_max": 3.8092258570016702
+    },
+    "all9_stability_mean_sd": "all9_stability_mean_sd.png",
+    "soft1_vs_soft2_stability": "soft1_vs_soft2_stability.png",
+    "stability_risk_tradeoff": "stability_risk_tradeoff.png"
+  },
+  "validation_report": "combined_validation_report.json"
+}
