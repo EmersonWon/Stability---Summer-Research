@@ -97,4 +97,77 @@
 
 ### 26.9.1 
 #### Main topic
-- 
+- Simulation not done yet, so keep running (the fast part first) 
+- We here formalize the 2 implementations, and hope to check their stability 
+- About the thesis: upload the information 
+#### Task 
+- Complete the simulations 
+- Try the theory part 
+
+### 26.9.14
+#### Main 
+- The figures given by ChatGPT are not good enough to show the stability across 10 replicates 
+- We plan to give up Implementation I, since it takes average over too many seeds (not fair and efficient) 
+- I asked questions about seeds reservation to restrict the randomization 
+#### Task 
+- Try new simulations (250 trees -> 1000 trees) 
+- Develop the figure outputs (better comparison) 
+- Complete the proof of Thm 4 
+- Small trials about fixing seeds in random forest 
+
+### 26.9.27 
+#### Main 
+- The figures are shown. But the results of setting 2 and 3 were a bit similar, which may be fair; but still needs checking 
+- Configure the figures, the x-axis should be uniform 
+- About the *mean-square(sd)* plot, should enlarge the title and specify the subtitle 
+- Consider other forms of screening like *sure independence screening* 
+- Our further goal is to generalise such screenings. We hope to summarise all these **scores** and their properties 
+#### Task 
+- Adjust the figures format, complete the proof 
+- Read more about other screening methods 
+
+### 26.10.1
+#### Main 
+- Need to update the figures a little bit more (log-scale, expand the left part of x-axis) 
+- Talking about the generalization of our current work (which I had misunderstood)
+- Explain the details that need to be improved in the proof (notation, completion, etc) 
+#### Task
+- Remake the figures 
+- Update the existing proofs 
+- Wait until the new formulation and add new proofs 
+
+### 26.10.8
+#### Main
+- Some updates about my work (within those proofs) 
+- The proof of Prop 1 may not be optimal (correlation) 
+- The figures need a new turn to polish 
+- Our next step: PCA stablizer (same mind: smooth the CDF) 
+- Possible simulation about the correlation stablizer 
+#### Task
+- Polish the proofs (Thm 3 statement, Cor 1 C', Thm 4 expectation) 
+- The definition of sample variance and correlation could be specified (Pearson, unbiased) 
+- Update the figures 
+- Try the simulation of correlation, using the dense setting (but alter the selection of $V_j$) 
+
+### 26.10.15 
+#### Main 
+- Talk about the simulation: about the *mean(SD)* plot, the title should be deleted and the font should be enlarged 
+- The $\tau$ in correlation simulation could be updated, for a better choice 
+- These figures could be put in the **Empirical study** section (specify the setting) 
+- About the theoretical part, there are something I can update: text before the introduction of the **Assumption 1** 
+#### Task 
+- Adjust the last version of the *mean(SD)* plots 
+- Retry the simulation of correlation filter 
+- Put the figures in the document 
+
+### 26.10.23 
+#### Main 
+- Update some new work of mine (word introduction of the *Assumption* and the *Simulation Setting*) 
+- Talk about the notation of a random bag ($r_b\to D_b$) 
+- The order of the introduction of the Simulation Setting (data generating process) should be revised 
+- Three parts: data generating models, algorithms used including the baselines, measure of stability 
+- Check the simulation results together and try to explain (2-step stability, each stability) 
+- I mentioned the failure of *SIS simulation* and the choice of $\nu$ (data-driven?) 
+- The first setting's result was no that obvious, for the model itself is too simple (even hard screening did well) 
+- Review the **Thm 3** to see that $\nu$ plays a vital role in the stability rather than $\tau$ 
+- We may need to check the stability of the first step of the whole algorithm, namely $\mathcal A^{(1)}$ 
